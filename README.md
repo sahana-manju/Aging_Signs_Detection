@@ -36,5 +36,9 @@ The dataset was collected from various online sources by the team to train the m
 ### Steps to Run the App
 
 1. Clone the Repository
-2. Please run the integrated_app_deployment.ipynb file to run the app 
+2. Please run the integrated_app_deployment.ipynb file to run the app
+
+
+## References
+ Please refer to this link to learn about EfficientDet https://colab.research.google.com/drive/1ZmbeTro4SqT7h_TfW63MLdqbrCUk_1br
 
