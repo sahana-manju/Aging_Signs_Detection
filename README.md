@@ -5,7 +5,7 @@
 The **Aging Signs Detection** app uses advanced machine learning models to detect aging signs such as **puffy eyes**, **wrinkles**, and **dark spots** from an image. This app integrates two powerful models:
 
 - **EfficientNet B5**: Used to detect puffy eyes.
-- **EfficientDet**: Used for detecting wrinkles and dark spots.
+- **EfficientDet D0**: Used for detecting wrinkles and dark spots.
 
 This project was developed as part of an internship, and our team won the **Best Approach** award for our work.
 
